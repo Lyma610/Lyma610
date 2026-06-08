@@ -42,5 +42,5 @@ Building production-ready AI agents capable of understanding tickets, analyzing 
 
 ## 📫 Contact
 
-- LinkedIn: Seu LinkedIn
+- LinkedIn: https://www.linkedin.com/in/lucas-l-dev
 - Email: lucaslyma.0606@gmail.com
