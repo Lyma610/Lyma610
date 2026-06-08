@@ -17,7 +17,7 @@ Building production-ready AI agents, backend systems and cloud solutions.
 - 🧠 Exploring **LangGraph, MCP, AI Evaluations and Observability**
 - ☁️ Working with **AWS, Docker and Terraform**
 - 📱 Developing **React Native Applications**
-- 💻 Backend Engineer with experience in **.NET, Java and Python**
+- 💻 Backend Engineer with experience in **.NET, Java, Python and GOLANG**
 - 🎯 Goal: Become a world-class **AI Engineer & Software Engineer**
 
 ---
