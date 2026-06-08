@@ -203,11 +203,11 @@ I am particularly interested in opportunities involving backend engineering, pla
 
 ## Connect
 
-São Paulo, Brazil
+Location: São Paulo, Brazil
 
-lucaslyma.0606@gmail.com
+Contact: lucaslyma.0606@gmail.com
 
-LinkedIn: https://www.linkedin.com/in/lucas-l-dev
+Social Media: https://www.linkedin.com/in/lucas-l-dev
 
 ---
 
