@@ -40,7 +40,7 @@ Building production-ready AI agents, backend systems and cloud solutions.
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-Core-512BD4?style=for-the-badge)
 ![Java](https://img.shields.io/badge/Java-Spring%20Boot-red?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge)
-![GO](https://img.shields.io/badge/GO%23-GOLANG-512BD4?style=for-the-badge)
+![GO](https://img.shields.io/badge/GO-GOLANG-512BD4?style=for-the-badge)
 
 
 ### Cloud & DevOps
