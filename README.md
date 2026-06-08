@@ -1,214 +1,139 @@
-# Lucas Lima
+<h1 align="center">Hi 👋, I'm Lucas Lima</h1>
 
-Software Engineer focused on AI Systems, Backend Engineering and Automation.
+<h3 align="center">
+Software Engineer focused on AI Systems, Backend Engineering and Automation
+</h3>
 
-I build production-ready software and intelligent systems that solve real-world problems through automation, cloud technologies and modern engineering practices.
-
-Currently focused on multi-agent architectures, AI-powered software engineering, backend development and cloud-native solutions.
-
----
-
-## About Me
-
-I'm passionate about building systems that combine strong software engineering foundations with modern AI capabilities.
-
-My experience spans backend development, mobile applications, cloud infrastructure and intelligent automation, with a growing focus on production-grade AI systems capable of reasoning, planning and executing complex workflows.
-
-### Areas of Interest
-
-- AI Engineering
-- Multi-Agent Systems
-- Backend Engineering
-- Cloud Architecture
-- Software Automation
-- Distributed Systems
-- Developer Productivity
-- Platform Engineering
+<p align="center">
+Building production-ready AI agents, backend systems and cloud solutions.
+</p>
 
 ---
 
-## Currently Building
+## 🚀 About Me
+
+- 🔭 Currently building **Autonomous Ticket Resolution Agents**
+- 🤖 Focused on **Multi-Agent Systems**
+- 🧠 Exploring **LangGraph, MCP, AI Evaluations and Observability**
+- ☁️ Working with **AWS, Docker and Terraform**
+- 📱 Developing **React Native Applications**
+- 💻 Backend Engineer with experience in **.NET, Java and Python**
+- 🎯 Goal: Become a world-class **AI Engineer & Software Engineer**
+
+---
+
+## 🛠️ Tech Stack
+
+### AI Engineering
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-Agent%20Orchestration-blue?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-AI-green?style=for-the-badge)
+![MCP](https://img.shields.io/badge/MCP-Model%20Context%20Protocol-orange?style=for-the-badge)
+
+### Backend
+
+![C#](https://img.shields.io/badge/C%23-.NET-512BD4?style=for-the-badge)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-Core-512BD4?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-Spring%20Boot-red?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge)
+
+### Cloud & DevOps
+
+![AWS](https://img.shields.io/badge/AWS-Cloud-FF9900?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-Containers-2496ED?style=for-the-badge)
+![Terraform](https://img.shields.io/badge/Terraform-IaC-7B42BC?style=for-the-badge)
+![GitHub Actions](https://img.shields.io/badge/GitHub-Actions-2088FF?style=for-the-badge)
+
+### Databases
+
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge)
+
+### Mobile
+
+![React Native](https://img.shields.io/badge/React%20Native-Mobile-61DAFB?style=for-the-badge)
+![Expo](https://img.shields.io/badge/Expo-000000?style=for-the-badge)
+
+---
+
+## 🏗️ Current Focus
 
 ### Autonomous Ticket Resolution Platform
 
-A production-oriented multi-agent system capable of:
+A multi-agent AI system capable of:
 
-- Understanding tickets and business requirements
-- Analyzing repositories and project structures
-- Identifying impacted files and services
+- Understanding tickets
+- Analyzing repositories
+- Mapping impacted files
 - Generating implementation plans
-- Executing software changes
-- Running validations and quality checks
+- Applying code changes
+- Running validations
 - Creating Pull Requests automatically
 
 ### AI Engineering Research
 
-Exploring advanced agent architectures such as:
+Currently researching:
 
 - ReAct
 - ReWOO
 - Plan & Execute
 - Reflection
-- Supervisor Patterns
+- Supervisor Agents
 - Swarm Architectures
 - Human-in-the-Loop Systems
 
-### Enterprise Integrations
-
-Developing integrations between AI agents and enterprise systems through:
-
-- MCP (Model Context Protocol)
-- SQL Server
-- GitHub
-- REST APIs
-- Internal Services
-
 ---
 
-## Tech Stack
-
-### AI Engineering
-
-- OpenAI
-- LangGraph
-- LangChain
-- MCP (Model Context Protocol)
-- RAG Architectures
-- Multi-Agent Systems
-- Function Calling
-- Structured Outputs
-- AI Evaluations
-- Agent Observability
-
-### Backend Development
-
-- C#
-- ASP.NET
-- Java
-- Spring Boot
-- Python
-- REST APIs
-- GraphQL
-
-### Cloud & DevOps
-
-- AWS
-- Docker
-- Terraform
-- GitHub Actions
-- CI/CD Pipelines
-
-### Databases
-
-- SQL Server
-- PostgreSQL
-
-### Mobile Development
-
-- React Native
-- Expo
-
----
-
-## Engineering Principles
-
-### Build for Production
-
-I value reliability, maintainability and observability over unnecessary complexity.
-
-### Automate Repetitive Work
-
-Automation should eliminate operational friction and allow engineers to focus on solving higher-value problems.
-
-### Keep Things Simple
-
-Simple solutions scale better than complex ones.
-
-### Continuous Learning
-
-Technology evolves quickly and great engineers evolve with it.
-
----
-
-## Featured Projects
-
-### Ticket Resolution Agent
-
-Production-grade multi-agent platform designed to automate software engineering workflows.
-
-**Key Concepts**
-
-- Agent Orchestration
-- Repository Intelligence
-- Context Engineering
-- Automated Validation
-- Git Automation
-- Human Oversight
-
----
-
-### MCP SQL Explorer
-
-A SQL Server exploration and analysis platform designed for safe enterprise database investigation.
-
-**Capabilities**
-
-- Database Discovery
-- Schema Analysis
-- Dependency Mapping
-- Metadata Exploration
-- Read-Only Operations
-
----
-
-### AI Engineering Experiments
-
-Research repository focused on agentic architectures, reasoning strategies and workflow orchestration.
-
-Topics include:
-
-- ReAct
-- ReWOO
-- Reflection
-- Planning Agents
-- Supervisor Architectures
-- Agent Collaboration
-
----
-
-## Currently Learning
+## 📚 Currently Learning
 
 - AWS AI Practitioner
 - LangSmith
 - LangFuse
 - Agent Observability
-- AI Evaluation Frameworks
+- AI Evaluations
 - Distributed Systems
-- Production AI Infrastructure
+- Platform Engineering
 
 ---
 
-## Career Goals
+## 📈 GitHub Stats
 
-My goal is to help build the next generation of intelligent software systems by combining:
+<div align="center">
 
-- Strong software engineering practices
-- Cloud-native architectures
-- Artificial Intelligence
-- Large-scale automation
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Lyma610&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-I am particularly interested in opportunities involving backend engineering, platform engineering, AI systems and high-scale distributed applications.
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lyma610&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
-## Connect
+## 🎯 2026 Goals
 
-Location: São Paulo, Brazil
+- ✅ Become AWS AI Practitioner Certified
+- 🚧 Build a production-grade AI Agent Platform
+- 🚧 Master Agent Observability
+- 🚧 Contribute to AI Open Source Projects
+- 🚧 Land a Software Engineering / AI Engineering role at a top fintech or technology company
 
-Contact: lucaslyma.0606@gmail.com
+---
 
-Social Media: https://www.linkedin.com/in/lucas-l-dev
+## 📫 Connect With Me
+
+<p align="left">
+
+<a href="SEU_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:lucaslyma.0606@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
 
 ---
 
 > Building software is great. Building systems that can build software is even better.
+
