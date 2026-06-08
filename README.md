@@ -207,7 +207,7 @@ São Paulo, Brazil
 
 lucaslyma.0606@gmail.com
 
-LinkedIn: YOUR_LINKEDIN_URL
+LinkedIn: https://www.linkedin.com/in/lucas-l-dev
 
 ---
 
