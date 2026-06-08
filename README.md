@@ -103,18 +103,6 @@ Currently researching:
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Lyma610&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lyma610&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
 ## 🎯 2026 Goals
 
 - ✅ Become AWS AI Practitioner Certified
