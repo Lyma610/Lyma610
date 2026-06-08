@@ -32,7 +32,7 @@ Building production-ready AI agents, backend systems and cloud solutions.
 ![MCP](https://img.shields.io/badge/MCP-Model%20Context%20Protocol-orange?style=for-the-badge)
 ![LangFuse](https://img.shields.io/badge/LangFuse-Agent%20Observation-blue?style=for-the-badge)
 ![LangSmith](https://img.shields.io/badge/LangSmith-Agent%20Observation-blue?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-412991?style=for-the-badge)
+![RAG](https://img.shields.io/badge/Retrievel%20Augmented%20Generation-orange?style=for-the-badge)
 
 ### Backend
 
