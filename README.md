@@ -30,6 +30,9 @@ Building production-ready AI agents, backend systems and cloud solutions.
 ![LangGraph](https://img.shields.io/badge/LangGraph-Agent%20Orchestration-blue?style=for-the-badge)
 ![LangChain](https://img.shields.io/badge/LangChain-AI-green?style=for-the-badge)
 ![MCP](https://img.shields.io/badge/MCP-Model%20Context%20Protocol-orange?style=for-the-badge)
+![LangFuse](https://img.shields.io/badge/LangFuse-Agent%20Observation-blue?style=for-the-badge)
+![LangSmith](https://img.shields.io/badge/LangSmith-Agent%20Observation-blue?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-412991?style=for-the-badge)
 
 ### Backend
 
@@ -37,6 +40,8 @@ Building production-ready AI agents, backend systems and cloud solutions.
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-Core-512BD4?style=for-the-badge)
 ![Java](https://img.shields.io/badge/Java-Spring%20Boot-red?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge)
+![GO](https://img.shields.io/badge/C%23-GOLANG-512BD4?style=for-the-badge)
+
 
 ### Cloud & DevOps
 
@@ -47,6 +52,7 @@ Building production-ready AI agents, backend systems and cloud solutions.
 
 ### Databases
 
+![Supabase](https://img.shields.io/badge/Supabase-316192?style=for-the-badge)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge)
 
@@ -114,7 +120,6 @@ Currently researching:
 - ✅ Become AWS AI Practitioner Certified
 - 🚧 Build a production-grade AI Agent Platform
 - 🚧 Master Agent Observability
-- 🚧 Contribute to AI Open Source Projects
 - 🚧 Land a Software Engineering / AI Engineering role at a top fintech or technology company
 
 ---
@@ -123,7 +128,7 @@ Currently researching:
 
 <p align="left">
 
-<a href="SEU_LINKEDIN">
+<a href="https://www.linkedin.com/in/lucas-l-dev">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
